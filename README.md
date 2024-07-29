@@ -4,11 +4,15 @@ This repository contains an Excel dashboard project designed to provide insights
 
 ## Table of Contents
 
-- [Data Sheets](#data-sheets)
-  - [Source Data](#source-data)
-  - [Wireframing](#wireframing)
-  - [Working Sheet](#working-sheet)
-  - [Dashboard](#wireframing-dashboard)
+
+
+> Source Data
+
+> Wireframing
+
+> Working Sheet
+
+> Dashboard
 
 ## Project Overview
 
