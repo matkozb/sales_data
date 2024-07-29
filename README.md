@@ -40,17 +40,10 @@ The `Working Sheet` is used for data transformation and calculations that feed i
 
 The `Dashboard` sheet contains the final dashboard layout with charts, tables, and interactive elements to visualize the sales data. This sheet leverages Excel's charting capabilities and VBA macros to create a dynamic user experience.
 
-Example data from `Dashboard`:
+https://github.com/user-attachments/assets/06e27ad7-cec8-4d7b-b3e2-4a297d735bb8
 
-| Category         | Sales         | Profit        | ... |
-|------------------|---------------|---------------|-----|
-| Total Sales      | 2,297,201.094 | 286,397.0217  | ... |
-| Profit vs PY     | 0.142357      |               | ... |
-| ...              | ...           | ...           | ... |
 
-## Usage Instructions
+## Usage Instructions.
 
-1. **Download the Excel file**: [Excel Dashboard.xlsm](./Excel%20Dashboard.xlsm)
-2. **Enable Macros**: Ensure that macros are enabled in your Excel settings to allow the interactive features to function.
-3. **Explore the Dashboard**: Navigate through the various sheets to explore the raw data, wireframes, and the interactive dashboard.
-4. **Interact with Visualizations**: Use the interactive elements within the `Wireframing_Dashboard` to filter and drill down into the sales data.
+
+
