@@ -47,7 +47,4 @@ The `Dashboard` sheet contains the final dashboard layout with charts, tables, a
 https://github.com/user-attachments/assets/06e27ad7-cec8-4d7b-b3e2-4a297d735bb8
 
 
-## Usage Instructions.
-
-
 
